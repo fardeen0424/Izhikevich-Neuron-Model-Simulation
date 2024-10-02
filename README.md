@@ -29,7 +29,7 @@ The Izhikevich neuron model is a mathematical representation of cortical spiking
 
 ## Code Structure
 
-* `Izhikevich.ipynb`: Interactive Jupyter Notebook for simulation and plotting
+* `Problem2.ipynb`: Interactive Jupyter Notebook for simulation and plotting
 
 
 ## How the Code Works
