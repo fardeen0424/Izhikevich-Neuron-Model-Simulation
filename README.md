@@ -91,8 +91,9 @@ The code generates two plots:
 
 1. Clone the repository: `git clone https://github.com/fardeen0424/Izhikevich-Neuron-Model-Simulation`
 2. Install required libraries: `pip install numpy matplotlib`
-3. Run Jupyter Notebook: `jupyter notebook Izhikevich.ipynb`
-4. Follow instructions in the notebook to simulate and plot RS neuron behavior
+3. Run Jupyter Notebook: `jupyter notebook Problem2.ipynb`
+4. Run Jupyter Notebook: `jupyter notebook Problem3.ipynb`
+5. Follow instructions in the notebook to simulate and plot RS neuron behavior
 
 
 ## Example Plots
